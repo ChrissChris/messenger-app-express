@@ -6,7 +6,7 @@
 
 - **The app provides login/register forms where users can register and Log-In**
 
-- **Once logged into the app the users can exchange and send messages between them**
+- **Once logged into the app the users can exchange and send messages between each other**
 
 <br/>
 
